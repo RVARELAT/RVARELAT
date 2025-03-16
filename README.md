@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Ricardo!
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=2000&color=F7F7F7&random=false&width=650&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Fulati+Aizihaer" alt="Typing SVG" /></h1>
-<h3 align="center">A first-gen Computer Science Student from Los Angeles, California.</h3>
+<h3 align="center">A First-Gen Computer Science Student from Los Angeles, California.</h3>
 
 
 
-- 📫 How to reach me **varelaricardo714@gmail.com**
+- 📫 How to reach me: **varelaricardo714@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
