@@ -77,9 +77,6 @@
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="Microsoft Office" width="40" height="40"/>
   </a>
-  <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Autodesk_AutoCAD_logo.svg/200px-Autodesk_AutoCAD_logo.svg.png" alt="AutoCAD" width="40" height="40"/>
-  </a>
 </p>
 
 
