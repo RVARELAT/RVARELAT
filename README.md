@@ -80,8 +80,6 @@
   <a href="https://www.autodesk.com/products/autocad/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Autodesk_AutoCAD_logo.svg" alt="AutoCAD" width="40" height="40"/>
   </a>
-  <!-- Fluent in Spanish - No logo, can be text -->
-  <span title="Fluent in Spanish" style="font-size: 1.1rem; margin-left: 10px;">🇪🇸 Fluent in Spanish</span>
 </p>
 
 
