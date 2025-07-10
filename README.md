@@ -2,7 +2,8 @@
 <h3 align="center">Born and raised in East Los Angeles, I am a first-generation Latino pursuing a degree in Computer Science and Linguistics at UCLA. I’m passionate about leveraging technology to address societal challenges and promote equity. My interests include software development, artificial intelligence, and project management—all grounded in a strong commitment to building inclusive and impactful technology solutions.</h3>
 
 
-
+- 🔭 I’m currently working on **CollegeNav 🎓**
+- 🌱 I’m currently learning about **AI through the Break Through Tech Fellowship**
 - 📫 How to reach me: **varelaricardo714@gmail.com**
 
 
