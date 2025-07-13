@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **CollegeNav 🎓**.
 - 🌱 I’m currently learning about **AI through the Break Through Tech Fellowship**.
-- 📫 How to reach me: **varelaricardo714@gmail.com**
+- 📫 How to reach me: **varelaricardo714@gmail.com** 
 
 
 <h3>🧑‍💻 Languages & Frameworks</h3>
@@ -80,8 +80,6 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark&langs_count=6)
-
-
 
 
 <!--
