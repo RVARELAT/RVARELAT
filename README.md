@@ -7,7 +7,7 @@
 - 📫 How to reach me: **varelaricardo714@gmail.com** 
 
 
-<h3>🧑‍💻 Languages & Frameworks</h3>
+<h3>🧑‍💻 Languages & Frameworks:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<h3>📊 Data & ML Tools</h3>
+<h3>📊 Data & ML Tools:</h3>
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -66,7 +66,7 @@
   </a>
 </p>
 
-<h3>🧰 Tools & Skills</h3>
+<h3>🧰 Tools & Skills:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
