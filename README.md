@@ -1,7 +1,6 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=2000&color=F7F7F7&random=false&width=650&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Ricardo+Varela+Tellez" alt="Typing SVG" /></h1>
 <h3 align="center">Born and raised in East Los Angeles, I am a first-generation Latino pursuing a degree in Computer Science and Linguistics at UCLA. I’m passionate about leveraging technology to address societal challenges and promote equity. My interests include software development, artificial intelligence, and project management—all grounded in a strong commitment to building inclusive and impactful technology solutions.</h3>
 
-
 - 🔭 I’m currently working on **CollegeNav 🎓**.
 - 🌱 I’m currently learning about **AI through the Break Through Tech Fellowship**.
 - 📫 How to reach me: **varelaricardo714@gmail.com** 
