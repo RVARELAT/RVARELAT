@@ -5,6 +5,12 @@
 - 🌱 I’m currently learning about **AI through the Break Through Tech Fellowship**.
 - 📫 How to reach me: **varelaricardo714@gmail.com** 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/RVARELAT" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect on LinkedIn" />
+  </a>
+</p>
+
 
 <h3>🧑‍💻 Languages & Frameworks:</h3>
 <p align="left">
