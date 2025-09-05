@@ -172,7 +172,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="Microsoft Office" width="40" height="40"/>
   </a>
 </p>
-
 -->
 
 
