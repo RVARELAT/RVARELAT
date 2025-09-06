@@ -123,7 +123,6 @@
     <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-code-computer-programming-flaticons-lineal-color-flat-icons.png" alt="Prolog" width="40" height="40"/>
   </a>
 
-
   <!-- Data & ML Tools -->
   <!--
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
