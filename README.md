@@ -13,9 +13,6 @@
 
 
 
-
-
-
 <h3>🧑‍💻 Languages & Frameworks:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
