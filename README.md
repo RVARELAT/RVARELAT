@@ -84,9 +84,9 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <!-- <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="Microsoft Office" width="40" height="40"/>
-  </a> -->
+  </a>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark&langs_count=6)
