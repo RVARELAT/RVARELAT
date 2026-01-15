@@ -89,8 +89,10 @@
   </a>
 </p>
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark&langs_count=6)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark&langs_count=6) -->
 
 
 
