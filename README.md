@@ -58,8 +58,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" width="45"/>
 </p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark)
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark" />
+</p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark&langs_count=6) -->
 
