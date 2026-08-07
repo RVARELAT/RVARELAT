@@ -12,8 +12,6 @@
 
 
 
-
-
 <h2 align="center">🛠️ Technical Skills</h2>
 
 <!-- Languages & Frameworks -->
