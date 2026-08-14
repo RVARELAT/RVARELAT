@@ -66,7 +66,7 @@ UCLA graduate in Linguistics & Computer Science with experience in software engi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark" />
 </p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RVARELAT&layout=compact&theme=github_dark&langs_count=6) -->
