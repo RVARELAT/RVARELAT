@@ -1,8 +1,16 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=2000&color=F7F7F7&random=false&width=650&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Ricardo+Varela+Tellez" alt="Typing SVG" /></h1>
-<h3 align="center">Born and raised in East Los Angeles, I am a first-generation Latino pursuing a degree in Computer Science and Linguistics at UCLA. I’m passionate about leveraging technology to address societal challenges and promote equity. My interests include software development, artificial intelligence, and product management—all grounded in a strong commitment to building inclusive and impactful technology solutions.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=2000&color=F7F7F7&random=false&width=650&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Ricardo+Varela+Tellez" alt="Typing SVG" />
+</h1>
 
-- 🌱 I’m currently learning about **AI/ML through the Break Through Tech Fellowship**.
-- 📫 How to reach me: **varelaricardo714@gmail.com** 
+<h3 align="center">
+UCLA graduate in Linguistics & Computer Science with experience in software engineering, automation, and AI/ML. I enjoy building practical technology that improves workflows and solves real-world problems, with interests in backend development, cloud technologies, artificial intelligence, and product-focused engineering.
+</h3>
+
+* 💻 Previously worked on **engineering and automation projects at FOX Corporation**
+* 🤖 Completed the **Break Through Tech AI Fellowship**, including an industry project with **Automation Anywhere**
+* ☁️ Currently building projects involving **backend development, AI agents, APIs, and cloud technologies**
+* 🌱 Currently strengthening my skills in **software engineering, system design, and AI/ML**
+* 📫 How to reach me: **[varelaricardo714@gmail.com](mailto:varelaricardo714@gmail.com)**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ricardovarelatellez/" target="_blank">
