@@ -6,6 +6,8 @@
 UCLA graduate in Linguistics & Computer Science with experience in software engineering, automation, and AI/ML. I enjoy building practical technology that improves workflows and solves real-world problems, with interests in backend development, cloud technologies, artificial intelligence, and product-focused engineering.
 </h3>
 
+
+
 * 💻 Previously worked on **engineering and automation projects at FOX Corporation**
 * 🤖 Completed the **Break Through Tech AI Fellowship**, including an industry project with **Automation Anywhere**
 * ☁️ Currently building projects involving **backend development, AI agents, APIs, and cloud technologies**
