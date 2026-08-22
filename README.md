@@ -7,7 +7,6 @@ UCLA graduate in Linguistics & Computer Science with experience in software engi
 </h3>
 
 
-
 * 💻 Previously worked on **engineering and automation projects at FOX Corporation**
 * 🤖 Completed the **Break Through Tech AI Fellowship**, including an industry project with **Automation Anywhere**
 * ☁️ Currently building projects involving **backend development, AI agents, APIs, and cloud technologies**
@@ -21,8 +20,6 @@ UCLA graduate in Linguistics & Computer Science with experience in software engi
 </p>
 
 <h2 align="center">🛠️ Technical Skills</h2>
-
-
 
 
 
