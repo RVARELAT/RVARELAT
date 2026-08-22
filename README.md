@@ -25,6 +25,7 @@ UCLA graduate in Linguistics & Computer Science with experience in software engi
 
 
 
+
 <!-- Languages & Frameworks -->
 <h3 align="center">🧑‍💻 Languages & Frameworks</h3>
 
