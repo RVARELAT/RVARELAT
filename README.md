@@ -4,6 +4,8 @@
 
 
 
+
+
 <h3 align="center">
 UCLA graduate in Linguistics & Computer Science with experience in software engineering, automation, and AI/ML. I enjoy building practical technology that improves workflows and solves real-world problems, with interests in backend development, cloud technologies, artificial intelligence, and product-focused engineering.
 </h3>
